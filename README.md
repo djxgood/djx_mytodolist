@@ -1,2 +1,0 @@
-# djx_mytodolist
-# ookk
